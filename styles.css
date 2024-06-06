@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.container {
+    display: grid;
+    gap: 10px;
+    background-color: darksalmon;
+    margin-top:300px;
+}
+
+.main {
+    display: grid;
+    gap: 10px;
+}
+
+body {
+    background-color:dimgrey;
+}
+
+h1 {
+    font-size: 44px;
+}
+
+.textDiv {
+    width: 400px;
+    text-align: center;
+    color: green;
+}
